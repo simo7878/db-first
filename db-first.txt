@@ -1,0 +1,13 @@
+ID                       numero incrementale  PRIMARY_KEY-AI-UNIQUE
+numero telaio            stringa varchar (100) NOT NULL-UNIQUE
+Marca	                   stringa varchar (20)
+Modello	                 stringa varchar(50)
+Inizio anno produzione   YEAR
+Fine anno produzione  	 YEAR
+Prezzo                 	 float (6,3) NOTNULL
+Peso	                   float(4,3)
+Lunghezza(cm)            int (3)
+Larghezza(cm)            int (3)
+Altezza(cm)	             int (3)
+N.Posti	                 int (1)
+Bagagliaio (dm3)         float (4,3) 
